@@ -1,4 +1,6 @@
 a.pdf
 directory/*
-*.pdf
+*.pdf  -> all pdfs will be ignored
 *_modified.txt
+!b.pdf   -> ignore all pdfs except b.pdf file
+
